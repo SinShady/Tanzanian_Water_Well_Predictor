@@ -4,12 +4,12 @@
 # Table of Contents
 
 ### Reports
-- [Presentation Notebook](https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/report/report.ipynb)
-- [Presentation Powerpoint]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/reports/Tanzanian_Water_Well_Data_Presentation.pdf )
+- [Presentation Notebook](https://github.com/SinShady/Tanzanian_Water_Well_Predictor/blob/main/notebooks/report/report.ipynb)
+- [Presentation Powerpoint]( https://github.com/SinShady/Tanzanian_Water_Well_Predictor/blob/main/reports/Tanzanian_Water_Well_Data_Presentation.pdf )
 
 ### Exploratory Notebooks
-- [Andrew's EDA]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/ayeh_eda.ipynb )
-- [Sindhu's EDA]( https://github.com/awyeh64/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/Sindhu_EDA.ipynb )
+- [Andrew's EDA]( https://github.com/SinShady/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/ayeh_eda.ipynb )
+- [Sindhu's EDA]( https://github.com/SinShady/Tanzanian_Water_Well_Predictor/blob/main/notebooks/exploratory/Sindhu_EDA.ipynb )
 
 ### Helpful Resources
 - [Tanzania Water Well Competition](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/)
